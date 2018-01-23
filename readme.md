@@ -1,4 +1,4 @@
-#Road to CSSGrid by WesBos
+CSSGrid1 by WesBos
 --
 
-practice, write all code from scratch!
+practice, write all code almost from scratch including SVG!
